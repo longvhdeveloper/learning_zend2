@@ -1,0 +1,10 @@
+Lambda va closure la 1 dang ham dac biet no giup nguoi dung giai quyet duoc bai toan cho phep nguoi lap trinh chu dong trong viec tao nhanh 1 ham vo dinh de giai quyet van de ma khong nhat thiet phai tao thu cong 1 ham hoan chinh. Thay vi nguoi dung phai dinh nghia ham rieng de dung thi ta co the dung Lambda va closure de viet truc tiep
+
+Su khac biet giua lambda va closure : Lambda chi su dung bien noi tai ben trong no , con Closure co the nhan duoc cac bien ben ngoai de tao tac
+
+
+Cac ham bo tro lambda va closure
++ call_user_func(callback, array)
++ call_user_func_array(callback, array)
++ func_get_args()
++ func_num_args()

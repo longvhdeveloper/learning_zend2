@@ -1,0 +1,2 @@
+Singleton Pattern :
+La pattern duoc su dung de tao ra su rang buoc, chi cho phep voi class nao do chi co duy nhat 1 doi tuong duoc khoi tao ma thoi. Va de lam duoc dieu do, ta phai su dung 1 so ky thuat nham khoa va khong cho phep doi tuong duoc phep khoi tao truc tiep
